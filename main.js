@@ -1,3 +1,4 @@
+//Matrix javascript app code
 //Start of code
 var score = 0;
 var maxLives = 2;
